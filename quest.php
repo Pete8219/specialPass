@@ -11,7 +11,7 @@
     <script src="scripts/vfs_fonts.js"></script>
 
     
-    <title>Информация о пропуске</title>
+    <title>Информация о выданном пропуске</title>
 </head>
 
 <body>
