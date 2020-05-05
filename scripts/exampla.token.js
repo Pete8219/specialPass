@@ -1,0 +1,1 @@
+export let DADATA_TOKEN = 'YOUR_TOKEN_FROM_DADATA';
