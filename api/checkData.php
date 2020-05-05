@@ -1,4 +1,6 @@
 <?php
+
+
 $host ="localhost:8889";
 $db_name = "devPass";
 $user = "dev";
